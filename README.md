@@ -30,8 +30,8 @@ Proje aşağıdaki Java konseptlerini aktif olarak kullanır:
    ```bash
    git clone [https://github.com/Cinargenc/Ag_Guvenligi_ve_Log_Analizi_Simulasyonu.git](https://github.com/Cinargenc/Ag_Guvenligi_ve_Log_Analizi_Simulasyonu.git)
 
-Favori IDE'niz ile (IntelliJ IDEA önerilir) projeyi açın.
+2. Favori IDE'niz ile (IntelliJ IDEA önerilir) projeyi açın.
 
-Main.java dosyasını çalıştırın.
+3. Main.java dosyasını çalıştırın.
 
-Konsol üzerinden simüle edilen log akışını ve alınan güvenlik önlemlerini izleyebilirsiniz.
+4. Konsol üzerinden simüle edilen log akışını ve alınan güvenlik önlemlerini izleyebilirsiniz.
